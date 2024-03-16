@@ -1,7 +1,7 @@
 +++
 title = 'Soal Integral Tentu'
 date = 2024-03-10T10:19:18+07:00
-draft = true
+draft = false
 math = true
 +++
 
