@@ -3,22 +3,6 @@ languageCode: en-us
 title: Denai Notes
 theme: PaperMod
 
-params:
-  profileMode:
-    enabled: true
-    title: "Math is Fun" # optional default will be site title
-    subtitle: "Matematika itu Mengenyangkan"
-    #imageUrl: "<image link>" # optional
-    imageTitle: "<title of image as alt>" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
-    buttons:
-      - name: Posts
-        url: "/posts"
-      - name: Archive
-        url: "/archive"
-      - name: github
-        url: "https://github.com/"
 
   cover:
     linkFullImages: true
