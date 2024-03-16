@@ -1,7 +1,7 @@
 +++
 title = 'Luas dan Estimasi Menggunakan Jumlah Berhingga'
 date = 2024-03-10T09:16:38+07:00
-draft = true
+draft = false
 math = true
 +++
 
