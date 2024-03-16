@@ -1,7 +1,7 @@
 +++
 title = 'Jumlah Riemann'
 date = 2024-03-10T10:16:06+07:00
-draft = true
+draft = false
 math = true
 +++
 
